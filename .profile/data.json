@@ -1,17 +1,17 @@
 {
- "key": "cfab095e",
+ "key": "7094dd1e",
  "stars": 2,
- "contributions": 97,
- "repos": 7,
+ "contributions": 116,
+ "repos": 8,
  "followers": 0,
  "languages": [
   [
-   "Python",
-   271279
+   "JavaScript",
+   349531
   ],
   [
-   "JavaScript",
-   172211
+   "Python",
+   279336
   ],
   [
    "TypeScript",
@@ -19,11 +19,11 @@
   ],
   [
    "CSS",
-   62179
+   86451
   ],
   [
    "HTML",
-   1402
+   3832
   ],
   [
    "Mako",
@@ -137,7 +137,7 @@
     "today": false
    },
    {
-    "c": 26,
+    "c": 45,
     "day": 31,
     "today": true
    }
@@ -156,6 +156,15 @@
    "fork": false,
    "stars": 2,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "bluevps",
+   "url": "https://github.com/siddhantpashte123-hub/bluevps",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
    "topics": []
   },
   {
