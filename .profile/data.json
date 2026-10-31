@@ -1,8 +1,8 @@
 {
- "key": "7094dd1e",
+ "key": "8430445d",
  "stars": 2,
- "contributions": 116,
- "repos": 8,
+ "contributions": 112,
+ "repos": 7,
  "followers": 0,
  "languages": [
   [
@@ -11,7 +11,7 @@
   ],
   [
    "Python",
-   279336
+   271279
   ],
   [
    "TypeScript",
@@ -137,7 +137,7 @@
     "today": false
    },
    {
-    "c": 45,
+    "c": 41,
     "day": 31,
     "today": true
    }
@@ -156,15 +156,6 @@
    "fork": false,
    "stars": 2,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "bluevps",
-   "url": "https://github.com/siddhantpashte123-hub/bluevps",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
    "topics": []
   },
   {
