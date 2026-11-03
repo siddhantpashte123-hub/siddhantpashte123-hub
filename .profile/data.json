@@ -1,25 +1,25 @@
 {
- "key": "ed21c4c1",
+ "key": "4f8ac28",
  "stars": 3,
- "contributions": 142,
+ "contributions": 162,
  "repos": 10,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   883456
+   1105529
   ],
   [
    "TypeScript",
-   391548
+   553790
   ],
   [
    "Python",
-   278497
+   287404
   ],
   [
    "CSS",
-   165660
+   166287
   ],
   [
    "HTML",
@@ -30,8 +30,8 @@
    16028
   ],
   [
-   "Mako",
-   468
+   "Dart",
+   8293
   ]
  ],
  "days": [
@@ -116,12 +116,12 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 2,
     "today": false
    },
    {
-    "c": 0,
+    "c": 19,
     "day": 3,
     "today": true
    },
@@ -132,8 +132,8 @@
   ]
  ],
  "streak": {
-  "current": 6,
-  "longest": 6
+  "current": 7,
+  "longest": 7
  },
  "pins": [],
  "all": [
@@ -161,7 +161,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "JavaScript",
    "topics": []
   },
   {
