@@ -1,5 +1,5 @@
 {
- "key": "9d387a07",
+ "key": "dc32d90d",
  "stars": 3,
  "contributions": 162,
  "repos": 10,
@@ -128,15 +128,19 @@
    {
     "c": 0,
     "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 7,
+  "current": 0,
   "longest": 7
  },
  "pins": [],
