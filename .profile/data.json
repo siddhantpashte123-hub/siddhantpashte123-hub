@@ -1,8 +1,8 @@
 {
- "key": "ac10580c",
+ "key": "36fa0619",
  "stars": 3,
- "contributions": 167,
- "repos": 10,
+ "contributions": 171,
+ "repos": 11,
  "followers": 0,
  "languages": [
   [
@@ -15,7 +15,7 @@
   ],
   [
    "Python",
-   289057
+   332425
   ],
   [
    "CSS",
@@ -141,14 +141,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 7,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 7
  },
  "pins": [],
@@ -169,6 +169,15 @@
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "VOICE-TO-CHAT",
+   "url": "https://github.com/siddhantpashte123-hub/VOICE-TO-CHAT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
    "topics": []
   },
   {
