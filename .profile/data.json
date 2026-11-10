@@ -1,37 +1,37 @@
 {
- "key": "7c58cabf",
+ "key": "36506853",
  "stars": 3,
- "contributions": 172,
+ "contributions": 154,
  "repos": 11,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   1105529
+   886133
   ],
   [
    "TypeScript",
-   553790
+   391548
   ],
   [
    "Python",
-   332425
+   280150
   ],
   [
    "CSS",
-   166287
+   165660
   ],
   [
    "HTML",
-   29699
+   40222
   ],
   [
    "C++",
    16028
   ],
   [
-   "Dart",
-   8293
+   "Mako",
+   468
   ]
  ],
  "days": [
@@ -79,12 +79,12 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 0,
     "day": 2,
     "today": false
    },
    {
-    "c": 19,
+    "c": 0,
     "day": 3,
     "today": false
    },
@@ -104,7 +104,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 1,
     "day": 7,
     "today": false
    }
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 8,
     "day": 10,
     "today": true
    },
@@ -132,8 +132,8 @@
   ]
  ],
  "streak": {
-  "current": 0,
-  "longest": 7
+  "current": 1,
+  "longest": 5
  },
  "pins": [],
  "all": [
@@ -156,21 +156,21 @@
    "topics": []
   },
   {
-   "name": "VOICE-TO-CHAT",
-   "url": "https://github.com/siddhantpashte123-hub/VOICE-TO-CHAT",
+   "name": "cloud",
+   "url": "https://github.com/siddhantpashte123-hub/cloud",
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "Python",
+   "language": null,
    "topics": []
   },
   {
-   "name": "beakend",
-   "url": "https://github.com/siddhantpashte123-hub/beakend",
+   "name": "web-",
+   "url": "https://github.com/siddhantpashte123-hub/web-",
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "JavaScript",
+   "language": "HTML",
    "topics": []
   },
   {
