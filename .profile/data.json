@@ -1,17 +1,17 @@
 {
- "key": "a36e2ab8",
+ "key": "f1b7f2a0",
  "stars": 3,
- "contributions": 369,
- "repos": 16,
+ "contributions": 389,
+ "repos": 17,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   1533524
+   1703981
   ],
   [
    "TypeScript",
-   653240
+   658341
   ],
   [
    "Python",
@@ -19,11 +19,11 @@
   ],
   [
    "CSS",
-   172849
+   176278
   ],
   [
    "HTML",
-   40222
+   43264
   ],
   [
    "C++",
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 20,
     "day": 23,
     "today": true
    },
@@ -128,8 +128,8 @@
   ]
  ],
  "streak": {
-  "current": 13,
-  "longest": 13
+  "current": 14,
+  "longest": 14
  },
  "pins": [],
  "all": [
@@ -149,6 +149,15 @@
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "pannel",
+   "url": "https://github.com/siddhantpashte123-hub/pannel",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
    "topics": []
   },
   {
