@@ -1,5 +1,5 @@
 {
- "key": "e280c532",
+ "key": "730e34b7",
  "stars": 3,
  "contributions": 429,
  "repos": 17,
@@ -138,13 +138,17 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 17,
+  "current": 0,
   "longest": 17
  },
  "pins": [],
